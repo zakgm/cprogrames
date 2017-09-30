@@ -126,7 +126,6 @@ void scientific(){
         printf("\n%f\n",result);
     else
         printf("\nWrong input.\n");
-	
 }
 
 float sine(float x){
@@ -141,8 +140,7 @@ float tangent(float x){
     return (tan(x*PI/180));
 }
 
-float logten(float x)
-{
+float logten(float x){
     return (log10(x));
 }
 
@@ -153,6 +151,7 @@ float squareroot(float x){
 float exponent(float x){
     return(exp(x));
 }
+
 float power(float x, float y){
     return (pow(x,y));
 }
