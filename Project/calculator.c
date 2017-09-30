@@ -47,6 +47,9 @@ int main(void){
 		printf("\nEnter 1 for Contine.\nEnter any input to exit.\n\n ");
 		scanf("%d",&c);
 		
+		if (c!=1)
+			return -1;
+		
 	}while(c==1);
 	
 	return 0;
