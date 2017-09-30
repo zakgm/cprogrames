@@ -2,7 +2,7 @@
  ============================================================================
  Name        : Calculator.c
  Author      : ZAKIR GULZAR MIR
- Version     : 0.1 Alfa
+ Version     : 0.1 Alpha
  Copyright   :
  Description : Calculator in C
  ============================================================================
